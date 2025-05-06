@@ -2,7 +2,9 @@
   "name": "ascenda",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
+ 
+    "scripts": {
+    "vercel-build": "npm install --legacy-peer-deps && npm run build",
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
