@@ -59,6 +59,7 @@
     "tailwindcss-animate": "^1.0.7",
     "zod": "^3.24.1"
   },
+  
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@types/d3-time": "^3.0.4",
@@ -91,9 +92,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Niiihariiikaa/Ascenda/issues"
   },
   "homepage": "https://github.com/Niiihariiikaa/Ascenda#readme"
+  
+
 }
